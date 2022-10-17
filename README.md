@@ -8,8 +8,8 @@
 
 “100 Days CSS: Um começo fácil para o desafio com um número de compilação personalizado com gradiente”
 
-quis trazer as cores de uma das minhas paixões, a estação primeira de mangueira (escola de samba) para minha versão do desafio
+no primeiro quis trazer as cores de uma das minhas paixões, a estação primeira de mangueira (escola de samba) para minha versão do desafio
 
-na replica tentei aplicar conforme o desafio
+na segunda página tentei fazer a  replica conforme o desafio
 
 <img src="./img/day1.1.png">
