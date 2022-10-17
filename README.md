@@ -12,4 +12,4 @@ quis trazer as cores de uma das minhas paixões, a estação primeira de manguei
 
 na replica tentei aplicar conforme o desafio
 
-<img src="./img/day1.png">
+<img src="./img/day1.png" style="width:100px; height:100px;">
