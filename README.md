@@ -11,3 +11,5 @@
 quis trazer as cores de uma das minhas paixões, a estação primeira de mangueira (escola de samba) para minha versão do desafio
 
 na replica tentei aplicar conforme o desafio
+
+<img src="./img/day1.png">
