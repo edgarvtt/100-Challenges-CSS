@@ -12,5 +12,5 @@ quis trazer as cores de uma das minhas paixões, a estação primeira de manguei
 
 na replica tentei aplicar conforme o desafio
 
-<img src="./img/day1.png" style="width:200px height:200px">
+<img src="./img/day1.png" style=" width:200px height:200px ">
 <img src="./img/day1.1.png">
